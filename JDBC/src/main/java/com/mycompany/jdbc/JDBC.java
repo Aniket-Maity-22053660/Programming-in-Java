@@ -15,6 +15,9 @@ import java.time.LocalDate;
  *
  * @author KIIT
  */
+/*
+JDBC
+    */
 public class JDBC {
 
     public static void main(String[] args) throws Exception{
